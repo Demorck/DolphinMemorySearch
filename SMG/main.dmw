@@ -1,0 +1,1619 @@
+{
+    "structDefs": {
+        "rootNode": [
+            {
+                "struct": {
+                    "fieldList": [
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "X",
+                                "pointerOffsets": [
+                                    "C"
+                                ],
+                                "typeIndex": 2,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 0
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Y",
+                                "pointerOffsets": [
+                                    "C"
+                                ],
+                                "typeIndex": 2,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 4
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Z",
+                                "pointerOffsets": [
+                                    "C"
+                                ],
+                                "typeIndex": 2,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 8
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Spin",
+                                "pointerOffsets": [
+                                    "EEB"
+                                ],
+                                "typeIndex": 0,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 12
+                        }
+                    ],
+                    "label": "Mario",
+                    "length": 16
+                },
+                "structName": "Mario"
+            },
+            {
+                "struct": {
+                    "fieldList": [
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Label",
+                                "length": 25,
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "typeIndex": 5,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 0
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Total Star",
+                                "typeIndex": 2,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 4
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Stars flag",
+                                "typeIndex": 0,
+                                "unsigned": false
+                            },
+                            "length": 1,
+                            "offset": 8
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "??? (star best score)",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 9
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Coin level 1",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 12
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Coin level 2",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 14
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Coin level 3",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 16
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Coin level 4",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 18
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Coin level 5",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 20
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Coin level 6",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 22
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "???",
+                                "typeIndex": 2,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 24
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "???",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 28
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "???",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 30
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "???",
+                                "typeIndex": 2,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 32
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Ptr of start of previous galaxy label -0x10",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "typeIndex": 2,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 36
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "ptr of start of next galaxy label -0x10",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "typeIndex": 2,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 40
+                        }
+                    ],
+                    "label": "GalaxyStruct",
+                    "length": 44
+                },
+                "structName": "GalaxyStruct"
+            },
+            {
+                "struct": {
+                    "fieldList": [
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Gateway",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 0
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Good Egg",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 4
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Honeyhive",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 8
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Loopdeloop",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 12
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Flipswitch",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 16
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Sweet Sweet",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 20
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Bowser Jr.'s Robot Reactor",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 24
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Spacejunk",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 28
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Rolling Green",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 32
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Battlerock",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 36
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Hurry-Scurry",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 40
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Sling Pod",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 44
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Bowser's Star Reactor",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 48
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Beach Bowl",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 52
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Bubble Breeze",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 56
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Ghostly",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 60
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Buoy Base",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 64
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Drip Drop",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 68
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Boo's Boneyard",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 72
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Bowser Jr.'s Airship Armada",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 76
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Gusty Garden",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 80
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Freezeflame",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 84
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Honeyclimb",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 88
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Dusty Dune",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 92
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Snow Cap",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 96
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Bowser's Dark Matter Plant",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 100
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Gold Leaf",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 104
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Sea Slide",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 108
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Bonefin",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 112
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Toy Time",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 116
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Sand Spiral",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 120
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Bowser Jr.'s Lava Reactor",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 124
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Deep Dark",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 128
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Dreadnought",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 132
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Matter Splatter",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 136
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Melty Molten",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 140
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Bigmouth",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 144
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Bowser's Galaxy Reactor",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 148
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Rolling Gizmo",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 152
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Loopdeswoop",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 156
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Bubble Blast",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 160
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Grand Finale",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GalaxyStruct",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 164
+                        }
+                    ],
+                    "label": "ArrayGalaxies",
+                    "length": 168
+                },
+                "structName": "ArrayGalaxies"
+            },
+            {
+                "struct": {
+                    "fieldList": [
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Sweet Sweet Galaxy",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 0
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Sling Pod Galaxy",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 2
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Drip Drop Galaxy ",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 4
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Boo's Boneyard Galaxy ",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 6
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Snow Cap Galaxy ",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 8
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Sand Spiral Galaxy ",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 10
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Bigmouth Galaxy ",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 12
+                        }
+                    ],
+                    "label": "Lumas array",
+                    "length": 14
+                },
+                "structName": "Lumas array"
+            },
+            {
+                "struct": {
+                    "fieldList": [
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Extra lived",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 4
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Stocked star piece",
+                                "typeIndex": 2,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 8
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Story progress",
+                                "typeIndex": 0,
+                                "unsigned": false
+                            },
+                            "length": 1,
+                            "offset": 12
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Extra lives from previous session",
+                                "typeIndex": 1,
+                                "unsigned": false
+                            },
+                            "length": 2,
+                            "offset": 14
+                        }
+                    ],
+                    "label": "PlayerStatus",
+                    "length": 16
+                },
+                "structName": "PlayerStatus"
+            },
+            {
+                "struct": {
+                    "fieldList": [
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "GameData",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GameDataHolder",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 0
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "ConfigData",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "ConfigDataHolder",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 4
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "is mario",
+                                "typeIndex": 0,
+                                "unsigned": false
+                            },
+                            "length": 1,
+                            "offset": 8
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "is GD corrupted",
+                                "typeIndex": 0,
+                                "unsigned": false
+                            },
+                            "length": 1,
+                            "offset": 9
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "is CD Corrupted",
+                                "typeIndex": 0,
+                                "unsigned": false
+                            },
+                            "length": 1,
+                            "offset": 10
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "containerCount": 10,
+                                "containerEntry": {
+                                    "absoluteBranch": false,
+                                    "address": "0",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "length": 1,
+                                    "typeIndex": 5,
+                                    "unsigned": false
+                                },
+                                "label": "userName",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "typeIndex": 10,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 12
+                        }
+                    ],
+                    "label": "UserFile",
+                    "length": 16
+                },
+                "structName": "UserFile"
+            },
+            {
+                "struct": {
+                    "fieldList": [
+                    ],
+                    "label": "GameDataHolder",
+                    "length": 0
+                },
+                "structName": "GameDataHolder"
+            },
+            {
+                "struct": {
+                    "fieldList": [
+                    ],
+                    "label": "ConfigDataHolder",
+                    "length": 0
+                },
+                "structName": "ConfigDataHolder"
+            },
+            {
+                "struct": {
+                    "fieldList": [
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Name",
+                                "length": 18,
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "typeIndex": 5,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 0
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Type",
+                                "typeIndex": 0,
+                                "unsigned": false
+                            },
+                            "length": 1,
+                            "offset": 4
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "SaveFlag",
+                                "typeIndex": 0,
+                                "unsigned": false
+                            },
+                            "length": 1,
+                            "offset": 5
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "IDjsp",
+                                "typeIndex": 0,
+                                "unsigned": false
+                            },
+                            "length": 1,
+                            "offset": 6
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "StarNeeded",
+                                "typeIndex": 0,
+                                "unsigned": false
+                            },
+                            "length": 1,
+                            "offset": 7
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "???",
+                                "typeIndex": 0,
+                                "unsigned": false
+                            },
+                            "length": 1,
+                            "offset": 8
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "GalaxyName",
+                                "length": 16,
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "typeIndex": 5,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 12
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "Requirements 2",
+                                "length": 16,
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "typeIndex": 5,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 16
+                        }
+                    ],
+                    "label": "GameFlag",
+                    "length": 20
+                },
+                "structName": "GameFlag"
+            },
+            {
+                "struct": {
+                    "fieldList": [
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "???",
+                                "typeIndex": 2,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 0
+                        },
+                        {
+                            "entry": {
+                                "absoluteBranch": false,
+                                "address": "0",
+                                "baseIndex": 0,
+                                "label": "FlagState",
+                                "pointerOffsets": [
+                                    "0"
+                                ],
+                                "structName": "GameFlag",
+                                "typeIndex": 7,
+                                "unsigned": false
+                            },
+                            "length": 4,
+                            "offset": 4
+                        }
+                    ],
+                    "label": "ArrayStuctFlag",
+                    "length": 8
+                },
+                "structName": "ArrayStuctFlag"
+            }
+        ]
+    },
+    "watchList": [
+        {
+            "expanded": true,
+            "groupEntries": [
+                {
+                    "absoluteBranch": false,
+                    "address": "806B7B40",
+                    "baseIndex": 0,
+                    "label": "Health",
+                    "pointerOffsets": [
+                        "380"
+                    ],
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "806B7B40",
+                    "baseIndex": 0,
+                    "label": "Starspin",
+                    "pointerOffsets": [
+                        "EEB"
+                    ],
+                    "typeIndex": 0,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "Mario"
+        },
+        {
+            "expanded": true,
+            "groupEntries": [
+            ],
+            "groupName": "-------------------------"
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80F62E38",
+            "baseIndex": 0,
+            "label": "Galaxies French",
+            "structName": "ArrayGalaxies",
+            "typeIndex": 7,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80F62DD0",
+            "baseIndex": 0,
+            "label": "Galaxies English",
+            "structName": "ArrayGalaxies",
+            "typeIndex": 7,
+            "unsigned": false
+        },
+        {
+            "groupEntries": [
+            ],
+            "groupName": "-------------------------"
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80F62D04",
+            "baseIndex": 0,
+            "label": "Lumas english",
+            "pointerOffsets": [
+                "8",
+                "10"
+            ],
+            "structName": "Lumas array",
+            "typeIndex": 7,
+            "unsigned": false
+        },
+        {
+            "expanded": true,
+            "groupEntries": [
+            ],
+            "groupName": "-------------------------"
+        },
+        {
+            "expanded": true,
+            "groupEntries": [
+            ],
+            "groupName": "RESEARCH ABOUT LANGUAGE (i.e: base address no matter the language)"
+        },
+        {
+            "expanded": true,
+            "groupEntries": [
+            ],
+            "groupName": "-------------------------"
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80900B18",
+            "baseIndex": 0,
+            "label": "Player status",
+            "pointerOffsets": [
+                "8",
+                "C",
+                "0",
+                "8",
+                "0"
+            ],
+            "structName": "PlayerStatus",
+            "typeIndex": 7,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80900B18",
+            "baseIndex": 0,
+            "label": "Galaxy NTSC/PAL or Language",
+            "pointerOffsets": [
+                "8",
+                "C",
+                "0",
+                "C",
+                "8",
+                "0"
+            ],
+            "structName": "ArrayGalaxies",
+            "typeIndex": 7,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80900B18",
+            "baseIndex": 0,
+            "label": "Lumas  NTSC/PAL or Language",
+            "pointerOffsets": [
+                "8",
+                "C",
+                "0",
+                "14",
+                "8",
+                "10"
+            ],
+            "structName": "Lumas array",
+            "typeIndex": 7,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80900B18",
+            "baseIndex": 0,
+            "label": "Name",
+            "length": 16,
+            "pointerOffsets": [
+                "8",
+                "C",
+                "0",
+                "24"
+            ],
+            "typeIndex": 5,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80900B18",
+            "baseIndex": 0,
+            "label": "UserFile*",
+            "pointerOffsets": [
+                "8",
+                "C",
+                "0",
+                "34",
+                "0"
+            ],
+            "structName": "UserFile",
+            "typeIndex": 7,
+            "unsigned": false
+        },
+        {
+            "expanded": true,
+            "groupEntries": [
+            ],
+            "groupName": "-------------------------"
+        },
+        {
+            "absoluteBranch": false,
+            "address": "8053BB54",
+            "baseIndex": 0,
+            "label": "iVar2",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "8053BB54",
+            "baseIndex": 0,
+            "label": "GrandStar",
+            "structName": "GameFlag",
+            "typeIndex": 7,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80F637FC",
+            "baseIndex": 1,
+            "label": "No label",
+            "typeIndex": 2,
+            "unsigned": true
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80F63648",
+            "baseIndex": 0,
+            "containerCount": 130,
+            "containerEntry": {
+                "absoluteBranch": false,
+                "address": "0",
+                "baseIndex": 0,
+                "label": "No label",
+                "structName": "ArrayStuctFlag",
+                "typeIndex": 7,
+                "unsigned": false
+            },
+            "label": "No label",
+            "typeIndex": 10,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "8053C800",
+            "baseIndex": 0,
+            "label": "Start of EventFlag BCSV",
+            "typeIndex": 0,
+            "unsigned": false
+        }
+    ]
+}
