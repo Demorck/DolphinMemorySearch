@@ -1614,6 +1614,67 @@
             "label": "Start of EventFlag BCSV",
             "typeIndex": 0,
             "unsigned": false
+        },
+        {
+            "expanded": true,
+            "groupEntries": [
+            ],
+            "groupName": "------------------------- Spin info"
+        },
+        {
+            "absoluteBranch": false,
+            "address": "806B7B40",
+            "baseIndex": 0,
+            "label": "???",
+            "pointerOffsets": [
+                "944"
+            ],
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "806B7B40",
+            "baseIndex": 0,
+            "label": "?",
+            "pointerOffsets": [
+                "945"
+            ],
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "806B7B40",
+            "baseIndex": 0,
+            "label": "Spin timer on ground",
+            "pointerOffsets": [
+                "946"
+            ],
+            "typeIndex": 1,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "806B7B40",
+            "baseIndex": 0,
+            "label": "Time since last spin",
+            "pointerOffsets": [
+                "948"
+            ],
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "806B7B40",
+            "baseIndex": 0,
+            "label": "idk",
+            "pointerOffsets": [
+                "974"
+            ],
+            "typeIndex": 1,
+            "unsigned": false
         }
     ]
 }
