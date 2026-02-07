@@ -119,10 +119,10 @@
                                 "address": "0",
                                 "baseIndex": 0,
                                 "label": "??? (star best score)",
-                                "typeIndex": 1,
+                                "typeIndex": 0,
                                 "unsigned": false
                             },
-                            "length": 2,
+                            "length": 1,
                             "offset": 9
                         },
                         {
@@ -1407,6 +1407,28 @@
                     "absoluteBranch": false,
                     "address": "806B7B40",
                     "baseIndex": 0,
+                    "label": "Water Health",
+                    "pointerOffsets": [
+                        "384"
+                    ],
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "806B7B40",
+                    "baseIndex": 0,
+                    "label": "Max Health",
+                    "pointerOffsets": [
+                        "3E0"
+                    ],
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "806B7B40",
+                    "baseIndex": 0,
                     "label": "Starspin",
                     "pointerOffsets": [
                         "EEB"
@@ -1666,6 +1688,12 @@
             "unsigned": false
         },
         {
+            "expanded": true,
+            "groupEntries": [
+            ],
+            "groupName": "------------------------- Spin info"
+        },
+        {
             "absoluteBranch": false,
             "address": "806B7B40",
             "baseIndex": 0,
@@ -1675,6 +1703,117 @@
             ],
             "typeIndex": 1,
             "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "809A9484",
+            "baseIndex": 0,
+            "label": "No label",
+            "pointerOffsets": [
+                "C"
+            ],
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80F94394",
+            "baseIndex": 0,
+            "label": "No label",
+            "pointerOffsets": [
+                "C"
+            ],
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80F62CF4",
+            "baseIndex": 0,
+            "label": "No label",
+            "pointerOffsets": [
+                "4",
+                "18"
+            ],
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "expanded": true,
+            "groupEntries": [
+            ],
+            "groupName": "------------------------- Spin info"
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80F62CF4",
+            "baseIndex": 0,
+            "label": "No label",
+            "pointerOffsets": [
+                "4",
+                "20"
+            ],
+            "typeIndex": 1,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80F62CF4",
+            "baseIndex": 0,
+            "label": "No label",
+            "pointerOffsets": [
+                "4",
+                "1E"
+            ],
+            "typeIndex": 1,
+            "unsigned": false
+        },
+        {
+            "expanded": true,
+            "groupEntries": [
+            ],
+            "groupName": "------------------------- Dome"
+        },
+        {
+            "absoluteBranch": false,
+            "address": "805CA5E9",
+            "baseIndex": 1,
+            "label": "No label",
+            "length": 32,
+            "typeIndex": 5,
+            "unsigned": true
+        },
+        {
+            "absoluteBranch": false,
+            "address": "8053BB2C",
+            "baseIndex": 1,
+            "label": "No label",
+            "typeIndex": 2,
+            "unsigned": true
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80F63630",
+            "baseIndex": 0,
+            "label": "No label",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "8053B5F0",
+            "baseIndex": 0,
+            "label": "No label",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "8053BB60",
+            "baseIndex": 1,
+            "label": "No label",
+            "typeIndex": 2,
+            "unsigned": true
         }
     ]
 }
